@@ -1,0 +1,6 @@
+{
+  "name": "Pipeline Tracker - Enterprise Lead Manager",
+  "description": "Multi-sheet B2B customer pipeline tracker with Microsoft email login, 5-KPI daily action engine, multi-contact management, and Excel sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
